@@ -6,9 +6,7 @@ What started as two good friends discussing the recent tech layoffs turned into 
 After watching my recently furloughed tech recruiter friend mess with excel for hours to try and gather a list of prospective contacts at Series A startups before his ZoomInfo license gets cut turned into this idea. 
 
 ## Tech/framework used
-Javascript,
-Python- Creating a second script to scrape ZoomInfo soon 
-
+Javascript
 
 ## Installation
 npm install ZoomInfo-CSV

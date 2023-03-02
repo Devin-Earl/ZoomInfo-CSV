@@ -1,6 +1,5 @@
-<pre>
-## Project title
-ZoomInfo-CSV
+
+## ZoomInfo-CSV
 
 ## Motivation
 
@@ -14,7 +13,7 @@ COMING SOON: Python Script to scrape ZoomInfo for non Enterprise folks
 Write to CSV instead of JSON in console log like current.
 
 ## Tech/framework used
-Javascript
+Javascript,
 Python- Creating a second script to scrape ZoomInfo soon 
 
 
@@ -28,14 +27,15 @@ https://api-docs.zoominfo.com/
 
 ## How to use?
 To use API Call simply run node index.js after creating your .env file and adding the approriate parms
-
+#
 Python script coming soon 
 
 
 ## Credits
-
-Gavin Mummert- for the idea.
+ Gavin Mummert- for the idea.
+ <br/><br/>
  ZoomInfo- for the app.
+ <br/><br/>
  MKBHD- Background podcast for while I was coding.
+ <br/><br/>
  Diet Coke- for being a solid coding drink.
-</pre>
